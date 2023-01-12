@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <title>World Watch</title>
+  </head>
+  <nav>
+    <div class="topnav">
+        <li><a href="#">Top</a></li>
+        <li><a href="#convert">Convert</a></li>
+        <li><a href="#time">Time</a></li>
+        <li><a href="#news">News</a></li>
+    </div>
+</nav>
+
+    <body>
+        <section id="#convert">
+            <div>
+            <h2>Money Conversion</h2>
+
+            <button onclick=""> Convert </button>
+            <a href= "#">Top</a>
+            </div>
+        </section>
+        <section id="#time">
+            <div>
+                <h2>What Time Is It?</h2>
+                <button onclick=""> Search </button>
+                <a href= "#">Top</a>
+            </div>
+        </section>
+        <section id="#news">
+            <div>
+                <h2>Locale News</h2>
+                <a href= "#">Top</a>
+            </div>
+        </section>
+    </body>
+
+    <footer>
+        
+    </footer>
+</html>
