@@ -47,3 +47,43 @@
         
     </footer>
 </html>
+
+
+APIs to link into project
+
+World Time APIs
+
+[WorldTimeAPI (returns the local time for a given timezone)](https://dev.timeanddate.com/time/)
+
+World Time API Documentation
+[WorldTimeAPI is a simple web service which returns the local-time for a given timezone as either JSON or plain-text. Some additional information is provided, such as whether that timezone is currently in Daylight Savings Time, when DST starts and ends, the UTC offset, etc.]
+https://rapidapi.com/brianiswu/api/world-time2
+
+Currency conversion API
+
+Real-Time, Intraday &
+Historical Market Data API
+Free, easy-to-use REST API interface delivering
+currency exchange rate data
+https://exchangeratesapi.io
+
+Currency Conversion and Exchange Rates API Documentation
+Simple reliable API for current and historical foreign exchange (forex) currency rates.
+https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/
+
+Local News APIs
+
+A smarter news API
+Up-to-the-minute news & events data from over 60,000 sources across the web. Structured & enriched by AI.
+https://www.goperigon.com/data-solutions/news-api?utm_source=google&utm_medium=paid_search&utm_campaign=news-api&gclid=CjwKCAiA2fmdBhBpEiwA4CcHzTsh6yqXJP1M6W_DT9YE25d743dP3Q9yAVR6ZpcRxlVfh_lwQthDMxoCnQcQAvD_BwE
+
+News APIs
+News API That
+Drives Insights
+Access structured, noise-free, enriched news data feeds from millions of sites,
+in 170+ languages from across the web.
+https://webz.io/data-apis/news-api?campaign=15345175811&adgroup=138601863788&keyword=news%20api&device=c&utm_term=news%20api&utm_campaign=Q4Y21-News-NA&utm_source=Google&utm_medium=CPC&utm_content=138601863788&hsa_acc=3775442258&hsa_cam=15345175811&hsa_grp=138601863788&hsa_ad=563644494197&hsa_src=g&hsa_tgt=kwd-330610633404&hsa_kw=news%20api&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA2fmdBhBpEiwA4CcHzQdDuLbBGd2DtP1HbqY2lZlsV9-mAudiaC7NS1uASXEmQ34KpGk9iRoC_GcQAvD_BwE
+
+Search worldwide news with code
+Locate articles and breaking news headlines from news sources and blogs across the web with our JSON API
+https://newsapi.org
