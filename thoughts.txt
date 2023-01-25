@@ -87,3 +87,6 @@ https://webz.io/data-apis/news-api?campaign=15345175811&adgroup=138601863788&key
 Search worldwide news with code
 Locate articles and breaking news headlines from news sources and blogs across the web with our JSON API
 https://newsapi.org
+
+Weather API
+https://www.weatherapi.com
