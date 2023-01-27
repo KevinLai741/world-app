@@ -12,6 +12,7 @@
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
+    background: rgb(110, 94, 254);
 }
 
 .fa-react {
@@ -28,12 +29,14 @@
     width: 70vw;
     justify-content: end;
     margin-right:2rem;
+    background: linear-gradient(90deg, rgb(110, 94, 254) 0%, rgba(73, 63, 252, 1) 100%);;
 }
 
 .nav-links {
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    background: linear-gradient(90deg, rgb(110, 94, 254) 0%, rgba(73, 63, 252, 1) 100%);
 }
 
 .nav-links:hover {
@@ -43,7 +46,7 @@
 }
 
 .fa-bars {
-    colors: #ffff;
+    color: #ffff;
 }
 
 .nav-links-mobile{
