@@ -5,13 +5,13 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Currency Converter',
-        url: '#currency',
+        title: 'Time Viewer',
+        url: '#time',
         cName: 'nav-links'
     },
     {
-        title: 'Time Viewer',
-        url: '#time',
+        title: 'Currency Converter',
+        url: '#currency',
         cName: 'nav-links'
     },
     {
