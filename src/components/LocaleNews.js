@@ -6,4 +6,4 @@ function localNews() {
 }
 
 
-export default localNews();
+export default localNews;

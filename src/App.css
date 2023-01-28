@@ -5,3 +5,9 @@
   font-family: 'Raleway', sans-serif;
   background-image: url(components/images/2367881.jpg);
 }
+
+h1 {
+  color: rgb(29, 158, 158);
+  text-align: center;
+  align-items: center;
+}
