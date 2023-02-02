@@ -2,7 +2,23 @@
 import React from "react";
 
 function time() {
-    return(<h1>"This is where I am able to show you the time."</h1>)
+    return(
+    <>
+        <div>
+            <h1>Search for the location!</h1>
+                <p>Please type here:</p> 
+                <div className="container">
+                    <div className="center">
+                        <button onClick="">Search
+                        </button>
+                    </div>
+                </div>
+                
+        {/* // Create a search bar to search for a location 
+        // API usage to collect user input and return the time */}
+        </div>
+    </>
+    )
 }
 
 export default time;

@@ -11,11 +11,15 @@ function App() {
   return ( 
   <>
     <div className="App">
+      <nav>
         <Navbar />
+      </nav>
+      <main>
         <TimeViewer />
         <CurrencyConverter />
         <WeatherViewer />
         <LocaleNews />
+      </main>
           {/* <Routes>
             <Route path="/time" element={<TimeViewer/>} />
             <Route path ="/currency" element={<CurrencyConverter/>} />
