@@ -3,7 +3,7 @@ import React from "react";
 
 function localNews() {
     return(<>
-            <div>
+            <div className="news">
                 <h1>Local News</h1>
                 <p>
                     Here are some of the news available in this location at this time...
